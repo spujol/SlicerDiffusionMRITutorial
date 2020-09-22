@@ -1,4 +1,4 @@
-The <a href="https://spujol.github.io/SlicerVisualizationTutorial/SlicerDiffusionMRITutorial_SoniaPujol.pdf" target="_blank"> Diffusion MRI tutorial </a> is an introduction to the basics of diffusion MRI analysis in 3D Slicer. The tutorial guides users through the process of loading diffusion-weighted images, estimating a diffusion model and generating tractography reconstructions of white matter fibers.
+The <a href="https://spujol.github.io/SlicerDiffusionMRITutorial/SlicerDiffusionMRITutorial_SoniaPujol.pdf" target="_blank"> Diffusion MRI tutorial </a> is an introduction to the basics of diffusion MRI analysis in 3D Slicer. The tutorial guides users through the process of loading diffusion-weighted images, estimating a diffusion model and generating tractography reconstructions of white matter fibers.
 
 Author:
 Sonia Pujol, Ph.D, Director of 3D Slicer Training & Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
